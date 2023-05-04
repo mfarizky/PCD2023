@@ -4,5 +4,3 @@
       a. median
       b. mean
       c. modus
-###    Selanjutnya, bandingkan hasil dari ketiga proses filtering tersebut. (Diberi penjelasan proses mana yang memiliki hasil optimal pada kasus ini)
-    
